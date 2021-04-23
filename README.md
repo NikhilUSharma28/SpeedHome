@@ -4,12 +4,12 @@
 
 ### There are different roles of Speed Home
 
-#### 2. ADMIN:
+#### 1. ADMIN:
 ##### - ADMIN can craete the property.
 ##### - ADMIN can update the property.
 ##### - Admin can verify the property.
 
-#### 1. LANDLORD:
+#### 2. LANDLORD:
 ##### - Landlord can create the property.
 ##### - Landlord can update the property.
 
