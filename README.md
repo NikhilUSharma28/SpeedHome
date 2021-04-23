@@ -1,27 +1,26 @@
-# property-management-system
+# Speed Home (Property Management System)
 
-## Property Management System provides us the platform where a landlord can upload his property or update the property and a customer can see the list of properties, which are added by the landlord.
-## Admin verifies the property, wether the property is genuine or not.
+## Property Management System is a system where Admin or LandLord can be able to create or update a property, Admin has a functionality to verify the property, and the user can be able to view or search the property.
 
-### Roles of different users of the system:
-
-#### 1. LANDLORD:
-##### - Landlord can upload the property.
-##### - Landlord can update the property.
+### There are different roles of Speed Home
 
 #### 2. ADMIN:
+##### - ADMIN can craete the property.
+##### - ADMIN can update the property.
 ##### - Admin can verify the property.
 
+#### 1. LANDLORD:
+##### - Landlord can create the property.
+##### - Landlord can update the property.
+
 #### 3. USER:
-##### - User can see the only properties verified by the admin.
+##### - User can see the only search the properties.
 
-
-### APIs in the system:
-#### - Add Property
+### Different APIs in Speed Home:
+#### - Create Property
 #### - Update Property
 #### - Approve Property
 #### - Search Property
-#### - Get Property
 
 ### Setup project in IntelliJ or in eclipse:
 #### - Clone the project in your machine 
